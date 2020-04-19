@@ -1,6 +1,6 @@
 # recipe-calculator
 
-This was done in Java, with JUnit test class.
+This was done in Java, with JUnit 4 test class.
 Choice of IDE: IntelliJ IDEA
 
 Assumptions made:
